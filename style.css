@@ -1,0 +1,53 @@
+html,
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+
+  /* how to use stack of fallbacks */
+  font-family: 'Merriweather', serif;
+}
+
+
+div{
+  text-align: center;
+  position: fixed;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  
+}
+
+
+a{
+
+  font-family: 'Montserrat', sans-serif;
+  margin: 5px auto;
+
+  /* how to remove underline from anchor tag */
+  display:block;
+  width:40%
+
+}
+
+
+br{
+
+  margin: 1000px;
+
+}
+
+h3{
+padding: 10px;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 10px auto 10px auto;
+}
+
+.creator{
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
